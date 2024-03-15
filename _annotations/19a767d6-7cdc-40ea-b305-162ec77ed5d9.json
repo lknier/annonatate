@@ -1,0 +1,48 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/segIns_020"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "....",
+            "purpose": "commenting",
+            "creator": {
+                "id": "lknier",
+                "name": "lknier"
+            },
+            "created": "2024-03-15T09:01:35.935Z",
+            "modified": "2024-03-15T09:01:36.414Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Example",
+            "purpose": "tagging",
+            "creator": {
+                "id": "lknier",
+                "name": "lknier"
+            },
+            "created": "2024-03-15T09:01:39.654Z",
+            "modified": "2024-03-15T09:01:41.188Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://d.lib.ncsu.edu/collections/catalog/segIns_020/manifest.json",
+                "type": "Manifest"
+            },
+            "id": "https://d.lib.ncsu.edu/collections/canvas/segIns_020",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"1887.301513671875,1079.6380615234375 3132.060791015625,2464.115234375 4656.255859375,1016.1300048828125 2369.96337890625,139.71788024902344 2141.333984375,609.677978515625\"></polygon></svg>"
+        }
+    },
+    "id": "19a767d6-7cdc-40ea-b305-162ec77ed5d9.json",
+    "motivation": "commenting"
+}
