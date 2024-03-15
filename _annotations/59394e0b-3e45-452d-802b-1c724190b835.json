@@ -1,0 +1,34 @@
+---
+canvas: "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Rialto Bridge",
+            "purpose": "commenting",
+            "creator": {
+                "id": "lknier",
+                "name": "lknier"
+            },
+            "created": "2024-03-15T08:56:10.690Z",
+            "modified": "2024-03-15T08:56:12.874Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "id": "https://repository.duke.edu/fcgi-bin/iipsrv.fcgi?IIIF=/nas/repo_deriv/hydra/multires_image/40/58/a6/28/4058a628-c593-463e-9736-8a821e178fee/info.json",
+            "type": "image"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=11973.59765625,6192.6201171875,1172.208984375,689.97119140625"
+        }
+    },
+    "id": "59394e0b-3e45-452d-802b-1c724190b835.json",
+    "motivation": "commenting"
+}
